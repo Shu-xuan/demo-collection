@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/demo-algo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-algo/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-aop-agent/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-aop-agent/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-aop-ajc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-aop-ajc/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-aqs-lock/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-aqs-lock/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-blockingqueue/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-blockingqueue/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-collection-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-collection-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-cus-annotation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-cus-annotation/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-import/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-import/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-mini-RPC/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-mini-RPC/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-proxy-my/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-proxy-my/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-proxy/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-proxy/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-reflection/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-reflection/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-scheduled/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-scheduled/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-simple-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-simple-mybatis/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-framework/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring-framework/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-spring/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-thread/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-thread/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-watchDog/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-watchDog/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
