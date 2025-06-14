@@ -12,6 +12,7 @@
         <option value="$PROJECT_DIR$/demo-dubbo-zookeeper/pom.xml" />
         <option value="$PROJECT_DIR$/demo-mini-RPC/pom.xml" />
         <option value="$PROJECT_DIR$/demo-reflection/pom.xml" />
+        <option value="$PROJECT_DIR$/demo-thread/pom.xml" />
         <option value="$PROJECT_DIR$/design-patterns/pom.xml" />
       </set>
     </option>
